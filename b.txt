@@ -1,1 +1,5 @@
-ahhhhhh
+<<<<<<< HEAD
+ahhhhhh2
+=======
+ahhhhhh1
+>>>>>>> feature2
